@@ -1,0 +1,1 @@
+create constraint on (h:House) assert h.id is unique;

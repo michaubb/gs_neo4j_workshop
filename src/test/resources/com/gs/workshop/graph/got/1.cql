@@ -1,0 +1,1 @@
+create constraint on (p:Person) assert p.id is unique;
