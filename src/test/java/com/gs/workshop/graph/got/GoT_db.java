@@ -7,9 +7,6 @@ import org.junit.Ignore;
 import org.junit.Test;
 import org.neo4j.driver.v1.Session;
 
-/**
- * Created by milenaluszczyk on 14/03/2019.
- */
 public class GoT_db extends GoTTest {
 
     @Test
